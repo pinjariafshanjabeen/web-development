@@ -1,0 +1,29 @@
+#cal1{
+    margin-top:20px;
+    border:1px solid black;
+    height:300px;
+    width:300px;
+}
+#cal2{
+    margin-top:20px;
+    border:1px solid black;
+    height:50px;
+    width:270px;
+    margin-left:1px;
+    display:flex;
+
+}
+#cal3{
+    margin-top:20px;
+    width: 300px;;
+}
+#op{
+    margin-top: 20px;
+
+}
+#s{
+    margin-top: 20px;
+}
+#s1{
+    margin-left: 50px;
+}
